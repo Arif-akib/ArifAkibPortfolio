@@ -14,16 +14,16 @@
         </p>
        
         <div class="px-[5%] flex justify-center items-center gap-5 scroll-animation">
-            <img src="/assets/image/logo/download__1_-removebg-preview.png" alt="" class="size-[20px] md:size-[35px] aspect-square" />
-            <img src="/assets/image/logo/download__2_-removebg-preview.png" alt="" class="size-[20px] md:size-[35px] aspect-square" />
-            <img src="/assets/image/logo/download-removebg-preview.png" alt="" class="size-[20px] md:size-[35px] aspect-square" />
-            <img src="/assets/image/logo/images-removebg-preview.png" alt="" class="size-[20px] md:size-[35px] aspect-square" />
+            <img src="/assets/image/logo/download__1_-removebg-preview.png" alt="" class="size-[25px] md:size-[35px] aspect-square" />
+            <img src="/assets/image/logo/download__2_-removebg-preview.png" alt="" class="size-[25px] md:size-[35px] aspect-square" />
+            <img src="/assets/image/logo/download-removebg-preview.png" alt="" class="size-[25px] md:size-[35px] aspect-square" />
+            <img src="/assets/image/logo/images-removebg-preview.png" alt="" class="size-[25px] md:size-[35px] aspect-square" />
             <img src="/assets/image/logo/Vue.js_Logo_2.svg-removebg-preview.png" alt=""
-                class="size-[20px] md:size-[35px] aspect-square" />
+                class="size-[25px] md:size-[35px] aspect-square" />
             <img src="/assets/image/logo/1_kI9G1WD481p1OYHEBv6KxA-removebg-preview.png" alt=""
-                class="size-[20px] md:size-[35px] aspect-square" />
+                class="size-[25px] md:size-[35px] aspect-square" />
             <img src="/assets/image/logo/ae35edce19e64c53e5d455b22e8a2c82d093d4c9-removebg-preview.png" alt=""
-                class="size-[20px] md:size-[35px] aspect-square" />
+                class="size-[25px] md:size-[35px] aspect-square" />
         </div>
         <img src="/assets/image/logo/logoDark-removebg-preview.png" alt="" class="h-[40px] mx-auto scroll-animatio">
     </div>
