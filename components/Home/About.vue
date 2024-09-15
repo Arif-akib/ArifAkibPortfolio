@@ -2,7 +2,7 @@
     <div class="px-[10%] mt-[-100px] space-y-10 pb-8 bg-[url('/assets/image/background/vt-8.png')] bg-no-repeat bg-center">
         <img src="/assets/image/home/1726346920725.jpg" alt=""
             class="size-[250px] rounded-full object-cover aspect-auto mx-auto drop-shadow-sm pt-1 bg-zinc-900 scroll-animation" />
-        <p class="text-white md:text-lg md:w-[80%] mx-auto text-justify md:text-center tracking-widest capitalize scroll-animation">
+        <p class="text-white md:text-lg md:w-[80%] mx-auto text-justify md:text-center tracking-widest capitalize sm:scroll-animation">
             <span class="text-xl text-orange-600">"</span> I am a web developer
             with over 2 years of professional experience, specializing in building
             modern, responsive web applications. My expertise lies in front-end
