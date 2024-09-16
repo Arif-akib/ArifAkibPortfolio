@@ -1,5 +1,5 @@
 <template>
-    <div class="px-[10%] mt-[-100px] space-y-10 pb-8 bg-[url('/assets/image/background/vt-8.png')] bg-no-repeat bg-center">
+    <div class="px-[10%] mt-[-100px] space-y-10 pb-8 bg-[url('/assets/image/background/vt-8.png')] bg-no-repeat bg-center" id="About">
         <img src="/assets/image/home/1726346920725.jpg" alt=""
             class="size-[250px] rounded-full object-cover aspect-auto mx-auto drop-shadow-sm pt-1 bg-zinc-900 scroll-animation" />
         <p class="text-white md:text-lg md:w-[80%] mx-auto text-justify md:text-center tracking-widest capitalize scroll-animation">

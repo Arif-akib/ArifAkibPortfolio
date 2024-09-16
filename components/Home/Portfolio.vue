@@ -1,5 +1,5 @@
 <template>
-    <div class="px-[5%] md:px-[10%] py-10">
+    <div class="px-[5%] md:px-[10%] py-10" id="Portfolio">
         <h1 class="text-3xl md:text-5xl text-white font-bold text-center mb-3 scroll-animation">Portfolio</h1>
         <p class="h-[3px] w-12 bg-white mx-auto mb-10 scroll-animation"></p>
         <div class="grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-10">

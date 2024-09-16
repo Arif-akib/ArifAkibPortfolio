@@ -1,5 +1,5 @@
 <template>
-    <div class="">
+    <div class="" id="Contact">
         <div class="pb-10 px-[5%] md:px-[10%]">
             <h1 class="text-3xl md:text-5xl text-white font-bold text-center capitalize scroll-animation">Let us work together</h1>
             <p class="w-10 h-[3px] bg-white mx-auto mt-4 scroll-animation"></p>

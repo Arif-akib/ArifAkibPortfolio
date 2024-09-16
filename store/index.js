@@ -5,6 +5,7 @@ export const useProductStore = defineStore({
   id: "product",
 
   state: () => ({
+    navbarDrop : false
   }),
 
   actions: {
