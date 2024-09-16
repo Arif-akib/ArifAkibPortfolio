@@ -3,8 +3,8 @@
         <h1 class="text-3xl md:text-5xl text-white font-bold text-center mb-3 scroll-animation">Portfolio</h1>
         <p class="h-[3px] w-12 bg-white mx-auto mb-10 scroll-animation"></p>
         <div class="grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-10">
-            <div v-for="(item) in projectList" :key="item" class="h-[400px] text-white capitalize relative pl-20 scroll-animation">
-                <div class="absolute p-5 bg-[#000000] rounded-md top-5 left-0 drop-shadow-md space-y-5">
+            <div v-for="(item ,index) in projectList" :key="item" class="h-[400px] text-white capitalize relative md:pr-0 md:pl-20" :class="index %2 ==0 ? 'pl-20':'pr-20'">
+                <div class="absolute p-5 bg-[#000000] rounded-md top-5 drop-shadow-md space-y-5 md:left-0 md:right-10 2xl:right-20" :class="index %2 ==0 ? 'left-0':'right-0'">
                     <h1 class="mb-5 text-xl md:text-3xl font-bold">{{ item.name }}</h1>
                     <p class="text-white">stack :</p>
                     <div class="flex items-center gap-5">
