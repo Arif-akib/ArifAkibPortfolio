@@ -1,5 +1,5 @@
 <template>
-    <div class="h-[60svh] sm:h-[70svh] w-full relative" id="Home">
+    <div class="h-[60vh] sm:h-[70vh] w-full relative" id="Home">
         <img src="/assets/image/home/laptop-with-picture-man-screen-that-says-word-it_605423-125672.jpg" alt="" class="size-full aspect-auto object-cover">
         <div class="size-full flex flex-col gap-2 justify-center items-center bg-[#0000005d] absolute top-0 text-white font-bold">
             <h1 class="text-5xl md:text-7xl">Arif Akib</h1>
