@@ -1,6 +1,6 @@
 <template>
     <div class="" id="Contact">
-        <div class="pb-10 px-[5%] md:px-[10%]">
+        <div class="pt-20 pb-10 px-[5%] md:px-[10%]">
             <h1 class="text-3xl md:text-5xl text-white font-bold text-center capitalize scroll-animation">Let us work together</h1>
             <p class="w-10 h-[3px] bg-white mx-auto mt-4 scroll-animation"></p>
 <p class="text-gray-400 text-center mt-3 md:w-[80%] mx-auto scroll-animation">If you're looking to enhance your online presence or need help with web development, feel free to get in touch! I specialize in creating responsive, user-friendly websites using React.js, Vue.js, Nuxt.js and Next.js, tailored to meet your business needs.</p>
