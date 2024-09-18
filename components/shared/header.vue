@@ -20,7 +20,7 @@
       <a href="#Home" class="hover:text-gray-400 duration-500">Home</a>
       <a href="#About" class="hover:text-gray-400 duration-500">About</a>
       <a href="#Portfolio" class="hover:text-gray-400 duration-500">Portfolio</a>
-      <a href="#Clients" class="hover:text-gray-400 duration-500">Clients</a>
+      <!-- <a href="#Clients" class="hover:text-gray-400 duration-500">Clients</a> -->
       <a href="#Contact" class="hover:text-gray-400 duration-500">Contact</a>
     </div>
     
