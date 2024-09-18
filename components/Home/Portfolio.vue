@@ -23,7 +23,7 @@
                                 </svg>
                             </a>
                         </button>
-                        <button v-if="item.url == ''" class="ring-1 ring-white hover:ring-0 hover:bg-orange-600 rounded-md py-1 px-3  duration-500">
+                        <button v-if="item.git == ''" class="ring-1 ring-white hover:ring-0 hover:bg-orange-600 rounded-md py-1 px-3  duration-500">
                             Privet Ripo
                         </button>
                         <button v-else class="ring-1 ring-white hover:ring-0 hover:bg-orange-600 rounded-md  duration-500">
