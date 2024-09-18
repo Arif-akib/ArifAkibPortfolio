@@ -12,6 +12,7 @@ import cloth1 from '/assets/image/project/screencapture-blue-criterion-clothing1
 import pizza1 from '/assets/image/project/screencapture-blue-criterion-pizza1-vercel-app-2024-09-15-06_22_54.png'
 import mahmud from '/assets/image/project/screencapture-localhost-3000-sustainability-2024-09-19-00_12_57.png'
 import industro from '/assets/image/project/screencapture-idustro-react-dev-vercel-app-2024-09-15-06_15_35.png'
+import artist from '/assets/image/project/screencapture-artist-website-opal-vercel-app-2024-09-19-00_51_33.png'
 
 // client img
 import c1 from "/assets/image/clients/author2.jpg";
@@ -93,6 +94,23 @@ const project = [
         ]
     },
 
+    {
+        name: 'Suborna Morsheada Artist website',
+        url: 'https://artist-website-opal.vercel.app/',
+        git: '',
+        bg:artist,
+        stack: [
+            {
+                img:htmlIcon
+            },
+            {
+                img:tailIcon
+            },
+            {
+                img:vueIcon
+            }
+        ]
+    },
     
 ]
 
