@@ -10,7 +10,7 @@ import nextIcon from '/assets/image/logo/ae35edce19e64c53e5d455b22e8a2c82d093d4c
 // project img
 import cloth1 from '/assets/image/project/screencapture-blue-criterion-clothing1-vercel-app-2024-09-15-02_10_09.png'
 import pizza1 from '/assets/image/project/screencapture-blue-criterion-pizza1-vercel-app-2024-09-15-06_22_54.png'
-import mahmud from '/assets/image/project/screencapture-localhost-3000-sustainability-2024-09-15-02_17_47.png'
+import mahmud from '/assets/image/project/screencapture-localhost-3000-sustainability-2024-09-19-00_12_57.png'
 import industro from '/assets/image/project/screencapture-idustro-react-dev-vercel-app-2024-09-15-06_15_35.png'
 
 // client img
@@ -71,6 +71,24 @@ const project = [
             },
             {
                 img:reactIcon
+            }
+        ]
+    },
+
+    {
+        name: 'Mahmud Garments Website',
+        url: 'https://mahmud-nuxt.vercel.app/',
+        git: '',
+        bg:mahmud,
+        stack: [
+            {
+                img:htmlIcon
+            },
+            {
+                img:tailIcon
+            },
+            {
+                img:nuxtIcon
             }
         ]
     },
