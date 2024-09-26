@@ -2,6 +2,15 @@
 export default defineNuxtConfig({
   // devtools: { enabled: true },
 
+  app: {
+    head: {
+      title: 'Arif Akib',
+      link: [
+        { rel: "icon", type: "image/png", href: "/AA.png" }
+      ]
+    },
+  },
+
   css: [
     '/assets/css/tailwind.css',
     '/assets/css/style.css'
