@@ -1,5 +1,5 @@
 <template>
-  <div class="px-[4%] 2xl:px-[9%] z-40 sticky top-0 py-2">
+  <div class="px-[4%] 2xl:px-[9%] z-40 fixed w-full top-0 py-2">
     <div
     class="h-[70px] w-full flex justify-between items-center 2xl:text-lg gap-2 shadow-md backdrop-blur-md bg-[#7474747a] py-3 px-5 rounded-lg">
     <nuxt-link to="/" class="rounded-md h-full">

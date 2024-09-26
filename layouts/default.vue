@@ -7,7 +7,7 @@ const store = useProductStore()
   <div class="max-w-[2000px] mx-auto">
     <SharedHeader />
 
-    <div class="min-h-[100vh-80px] bg-black">
+    <div class="min-h-[100vh-100px] bg-black">
       <slot />
     </div>
     <SharedFooter />

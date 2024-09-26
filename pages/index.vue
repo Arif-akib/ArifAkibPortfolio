@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <HomeHero class="mt-[-100px]"/>
+        <HomeHero class=""/>
         <HomeAbout/>
         <HomePortfolio/>
         <!-- <HomeClient/> -->
