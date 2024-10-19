@@ -60,7 +60,7 @@ const project = [
 
     {
         name: 'Industry portfolio website',
-        url: 'https://idustro-react-dev.vercel.app/',
+        url: 'https://idustro-next-dev.vercel.app/',
         git: 'https://github.com/Arif-akib/Idustro-React-Dev',
         bg:industro,
         stack: [
@@ -71,7 +71,7 @@ const project = [
                 img:tailIcon
             },
             {
-                img:reactIcon
+                img:nextIcon
             }
         ]
     },
